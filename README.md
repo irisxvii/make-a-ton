@@ -1,5 +1,5 @@
 # sbl-maps
-navigate to your desired location from and to anywhere inside the campus
+navigate to your desired location from and to anywhere inside the campus <br>
 feel free to drop your comments anywhere ;)
 ## team members
 ⋅ [Nandana Sanil](https://github.com/Scar2345)
